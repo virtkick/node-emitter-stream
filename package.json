@@ -1,0 +1,24 @@
+{
+  "name": "emitter-stream",
+  "version": "1.0.0",
+  "description": "Turn EventEmitter into streams so that events can be cached and processed later",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "eventemitter",
+    "stream",
+    "cache",
+    "process",
+    "events"
+  ],
+  "author": "Damian Kaczmarek <rush@virtkick.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
